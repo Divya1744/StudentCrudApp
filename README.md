@@ -43,8 +43,9 @@ A simple backend project to manage student records using Spring Boot, Spring Dat
 
 ## 📸 Preview
 
-![Postman Result Sample](put-your-image-link-here)
+<img src="assets/post_man_result.png" alt="Postman Result Sample" width="500"/>
 
+![database](assets/database.png)
 ---
 
 ## 📚 Learnings
@@ -59,6 +60,6 @@ A simple backend project to manage student records using Spring Boot, Spring Dat
 
 **Feel free to fork, star ⭐, or contribute!**
 
-#HappyCoding 🚀
+
 
 
