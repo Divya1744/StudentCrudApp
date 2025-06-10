@@ -25,7 +25,7 @@ public class StudentService {
 	public Student getByRno(int rno) {
 		
 		
-		return studentRepo.findById(rno).orElse(new Student());
+		return studentRepo.findById(rno).orElse(null);
 	}
 	public String updateStudent(Student student) {
 		
